@@ -1,0 +1,77 @@
+{
+  "total_date": "2020-01-04",
+  "total_hours": [
+    {
+      "hour": 0,
+      "request": 0,
+      "response": 0,
+      "click": 0
+    },
+    {
+      "hour": 2,
+      "request": 2,
+      "response": 2,
+      "click": 2
+    },
+    {
+      "hour": 4,
+      "request": 4,
+      "response": 4,
+      "click": 4
+    },
+    {
+      "hour": 6,
+      "request": 6,
+      "response": 6,
+      "click": 6
+    },
+    {
+      "hour": 8,
+      "request": 8,
+      "response": 8,
+      "click": 8
+    },
+    {
+      "hour": 10,
+      "request": 10,
+      "response": 10,
+      "click": 10
+    },
+    {
+      "hour": 12,
+      "request": 12,
+      "response": 12,
+      "click": 12
+    },
+    {
+      "hour": 14,
+      "request": 14,
+      "response": 14,
+      "click": 14
+    },
+    {
+      "hour": 16,
+      "request": 16,
+      "response": 16,
+      "click": 16
+    },
+    {
+      "hour": 18,
+      "request": 18,
+      "response": 18,
+      "click": 18
+    },
+    {
+      "hour": 20,
+      "request": 20,
+      "response": 20,
+      "click": 20
+    },
+    {
+      "hour": 22,
+      "request": 22,
+      "response": 22,
+      "click": 22
+    }
+  ]
+}

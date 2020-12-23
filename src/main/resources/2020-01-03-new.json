@@ -1,0 +1,149 @@
+{
+  "total_date": "2020-01-03",
+  "total_hours": [
+    {
+      "hour": 0,
+      "request": 0,
+      "response": 0,
+      "click": 0
+    },
+    {
+      "hour": 1,
+      "request": 1,
+      "response": 1,
+      "click": 1
+    },
+    {
+      "hour": 2,
+      "request": 2,
+      "response": 2,
+      "click": 2
+    },
+    {
+      "hour": 3,
+      "request": 3,
+      "response": 3,
+      "click": 3
+    },
+    {
+      "hour": 4,
+      "request": 4,
+      "response": 4,
+      "click": 4
+    },
+    {
+      "hour": 5,
+      "request": 5,
+      "response": 5,
+      "click": 5
+    },
+    {
+      "hour": 6,
+      "request": 6,
+      "response": 6,
+      "click": 6
+    },
+    {
+      "hour": 7,
+      "request": 7,
+      "response": 7,
+      "click": 7
+    },
+    {
+      "hour": 8,
+      "request": 8,
+      "response": 8,
+      "click": 8
+    },
+    {
+      "hour": 9,
+      "request": 9,
+      "response": 9,
+      "click": 9
+    },
+    {
+      "hour": 10,
+      "request": 10,
+      "response": 10,
+      "click": 10
+    },
+    {
+      "hour": 11,
+      "request": 11,
+      "response": 11,
+      "click": 11
+    },
+    {
+      "hour": 12,
+      "request": 12,
+      "response": 12,
+      "click": 12
+    },
+    {
+      "hour": 13,
+      "request": 13,
+      "response": 13,
+      "click": 13
+    },
+    {
+      "hour": 14,
+      "request": 14,
+      "response": 14,
+      "click": 14
+    },
+    {
+      "hour": 15,
+      "request": 15,
+      "response": 15,
+      "click": 15
+    },
+    {
+      "hour": 16,
+      "request": 16,
+      "response": 16,
+      "click": 16
+    },
+    {
+      "hour": 17,
+      "request": 17,
+      "response": 17,
+      "click": 17
+    },
+    {
+      "hour": 18,
+      "request": 18,
+      "response": 18,
+      "click": 18
+    },
+    {
+      "hour": 19,
+      "request": 19,
+      "response": 19,
+      "click": 19
+    },
+    {
+      "hour": 20,
+      "request": 20,
+      "response": 20,
+      "click": 20
+    },
+    {
+      "hour": 21,
+      "request": 21,
+      "response": 21,
+      "click": 21
+    },
+    {
+      "hour": 22,
+      "request": 22,
+      "response": 22,
+      "click": 22
+    },
+    {
+      "hour": 23,
+      "request": 23,
+      "response": 23,
+      "click": 23
+    }
+  ]
+}

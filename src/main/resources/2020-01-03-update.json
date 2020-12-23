@@ -1,0 +1,149 @@
+{
+  "total_date": "2020-01-03",
+  "total_hours": [
+    {
+      "hour": 0,
+      "request": 0,
+      "response": 0,
+      "click": 0
+    },
+    {
+      "hour": 1,
+      "request": 10,
+      "response": 10,
+      "click": 10
+    },
+    {
+      "hour": 2,
+      "request": 20,
+      "response": 20,
+      "click": 20
+    },
+    {
+      "hour": 3,
+      "request": 30,
+      "response": 30,
+      "click": 30
+    },
+    {
+      "hour": 4,
+      "request": 40,
+      "response": 40,
+      "click": 40
+    },
+    {
+      "hour": 5,
+      "request": 50,
+      "response": 50,
+      "click": 50
+    },
+    {
+      "hour": 6,
+      "request": 60,
+      "response": 60,
+      "click": 60
+    },
+    {
+      "hour": 7,
+      "request": 70,
+      "response": 70,
+      "click": 70
+    },
+    {
+      "hour": 8,
+      "request": 80,
+      "response": 80,
+      "click": 80
+    },
+    {
+      "hour": 9,
+      "request": 90,
+      "response": 90,
+      "click": 90
+    },
+    {
+      "hour": 10,
+      "request": 100,
+      "response": 100,
+      "click": 100
+    },
+    {
+      "hour": 11,
+      "request": 110,
+      "response": 110,
+      "click": 110
+    },
+    {
+      "hour": 12,
+      "request": 120,
+      "response": 120,
+      "click": 120
+    },
+    {
+      "hour": 13,
+      "request": 130,
+      "response": 130,
+      "click": 130
+    },
+    {
+      "hour": 14,
+      "request": 140,
+      "response": 140,
+      "click": 140
+    },
+    {
+      "hour": 15,
+      "request": 150,
+      "response": 150,
+      "click": 150
+    },
+    {
+      "hour": 16,
+      "request": 160,
+      "response": 160,
+      "click": 160
+    },
+    {
+      "hour": 17,
+      "request": 170,
+      "response": 170,
+      "click": 170
+    },
+    {
+      "hour": 18,
+      "request": 180,
+      "response": 180,
+      "click": 180
+    },
+    {
+      "hour": 19,
+      "request": 190,
+      "response": 190,
+      "click": 190
+    },
+    {
+      "hour": 20,
+      "request": 200,
+      "response": 200,
+      "click": 200
+    },
+    {
+      "hour": 21,
+      "request": 210,
+      "response": 210,
+      "click": 210
+    },
+    {
+      "hour": 22,
+      "request": 220,
+      "response": 220,
+      "click": 220
+    },
+    {
+      "hour": 23,
+      "request": 230,
+      "response": 230,
+      "click": 230
+    }
+  ]
+}
